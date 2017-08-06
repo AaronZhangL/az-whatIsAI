@@ -61,4 +61,8 @@ https://arxiv.org/pdf/1506.05869v2.pdf
 
 14. Google's artificial intelligence bot thinks the purpose of life is 'to live forever'
 https://www.businessinsider.com.au/google-tests-new-artificial-intelligence-chatbot-2015-6
+
+15. 第773回：自然対話プラットフォーム とは
+http://k-tai.watch.impress.co.jp/docs/column/keyword/1020914.html
+
 </pre>
