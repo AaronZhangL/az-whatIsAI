@@ -93,8 +93,10 @@ http://www.nsknet.or.jp/~peterr-s/concordancing/conclinks.html
 https://www.diigo.com/tag/corpus
 https://www.diigo.com/tag/corpus%20english
 https://en.wikipedia.org/wiki/Text_corpus
+http://www.tmxmall.com/
+http://sara.natcorp.ox.ac.uk/
 
-24. 国内可用免费语料库（凡没有标注不可用的链接均可用)
+24. 中文可用免费语料库（凡没有标注不可用的链接均可用)
 http://blog.sina.com.cn/s/blog_66dfbcca0100r3ex.html
 (一) 国家语委
 
@@ -154,5 +156,6 @@ http://ling.cuc.edu.cn/mmcpub（目前系统正在升级改造中）
 中文语言资源联盟http://www.chineseldc.org/
 (Chinese Linguistic Data Consortium,简称ChineseLDC)的建立。ChineseLDC是吸收国内高等院校,科研机构和公司参加的开放式语言资源联盟。其目的是建成能代表当今中文信息处理水平的,通用的中文语言信息知识库。ChineseLDC 将建设和收集中文信息处理所需要的各种语言资源,包括词典,语料库,数据,工具等。在建立和收集语言资源的基础上,分发资源,促成统一的标准和规范,推荐给用户,并且针对中文信息处理领域的关键技术建立评测机制,为中文信息处理的基础研究和应用开发提供支持。（之所以排名这么后，是因为是国家出钱的项目，却没有什么免费资源）
 
-
+25. 現代日本語書き言葉均衡コーパス（BCCWJ）
+http://www.kotonoha.gr.jp/demo/
 </pre>
