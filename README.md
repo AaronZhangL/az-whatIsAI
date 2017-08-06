@@ -96,6 +96,62 @@ https://en.wikipedia.org/wiki/Text_corpus
 http://www.tmxmall.com/
 http://sara.natcorp.ox.ac.uk/
 
+Some well-known Corpora
+• Bank of English (Cobuild) TitaniaCollins Dictionary https://www.collinsdictionary.com/
+• Leeds Collection of Internet Corpora Leeds collection of Internet corpora http://corpus.leeds.ac.uk/internet.html
+• British National Corpora [bnc] British National CorpusBritish National Corpus (BYU-BNC)  http://www.natcorp.ox.ac.uk/
+• Corpora in other languages http://www.lancaster.ac.uk/staff/xiaoz/papers/corpus%20survey.htm
+
+Some parallel corpora
+• Linguee: Linguee | Dictionary for German, French, Spanish, and more   http://cn.linguee.com/?from=com
+• OPUS : corpus query (CWB)   http://opus.lingfil.uu.se/bin/opuscqp.pl
+• Europarl : http://opus.lingfil.uu.se/cwb/Europarl/framescqp.html
+• Opensubtitles : http://opus.lingfil.uu.se/cwb/OpenSubtitles/frames-cqp.html
+• Mymemory: MyMemory - Machine translation meets human translation  http://opus.lingfil.uu.se/   
+Search translation glossaries & dictionaries  http://www.proz.com/search/
+
+Building your own corpora
+• Free software available: antconc – Link: http://www.antlab.sci.waseda.ac.jp/antconc_inde x.html – Other software can be found
+• E.g. BootCaT for rough and ready web corpora
+• http://bootcat.sslmit.unibo.it/?section=home
+Key elements to corpus building 
+• Define what you want your corpus for – The more clear you are now, the better the resource will be – E.g. ‘English legal texts’ is too vague; you need to be more specific: ‘English journalistic writing about civil law for nonspecialists’ might be the right sort of level of precision 
+• Locate reliable sources Criteria for selecting text: mode, type, domain, language, location, date. [bnc] Designing and Creating the BNC
+• The minimum size of a corpus depends on two main factors: --the kind of query that is anticipated from users --the methodology they use to study the data
+
+Coding and cleaning files 
+• Antconc will only read .txt files, so you need to clean up pdfs and html files to that format 
+• This can take time
+• Maher, Waller and Kerans (2008) recommend converting from html for this reason – For more accessible genres, html files are going to be more common
+
+More tips on cleaning files 
+• Remove reference lists 
+• Remove non-linguistic content 
+• Remove extra spaces 
+• Problems of anomalous characters – .txt tends to flounder with diacritics 
+• Hyphen issues 
+• From Maher, Waller and Kerans 2008 
+Web as corpra • WebCorp: The Web as Corpus
+• The use of open-access corpra Allows you to create quick corpora of specialised terms for specific jobs
+• Major disadvantage is lack of control
+• Major advantage is rapidity
+Research fully to ensure a translation doesn’t exist:
+
+– IATE (including looking on other languages)
+– UNTERM portal (http://untermportal.un.org/portal/welcome)
+– Field specific resources (e.g. Glossary of Tax Terms)
+– Refined Google searches
+– Create ‘sample’ translations and search for these in the TL. 
+• EU resources for translators: – EU – DG Translation
+• Interactive Terminology for Europe: – IATE - The EU's multilingual term base
+• EU Terminology Coordination – TermCoord – Terminology Coordination Unit Home Page
+• French Law on the Internet - The Basics and Free Resources By Emmanuel Barthe http://www.nyulawglobal.org/globalex/french_law_free_resources.htm
+Chinese law resources on the internet Chinese Law Resources on the Internet
+Features - A Guide to the Spanish Legal System http://216.122.177.166/dpz/legloc/default.html
+Russian Law News (internet links) http://www.russianlaws.com/resources/
+Bilingual law information system: e.g. Hong Kong Department of Justice
+Research institutions and universities Library Home Pagehttp://www.nyulawglobal.org/globalex/Russia_Legal_Research.htm
+
 24. 中文可用免费语料库（凡没有标注不可用的链接均可用)
 http://blog.sina.com.cn/s/blog_66dfbcca0100r3ex.html
 (一) 国家语委
@@ -158,4 +214,6 @@ http://ling.cuc.edu.cn/mmcpub（目前系统正在升级改造中）
 
 25. 現代日本語書き言葉均衡コーパス（BCCWJ）
 http://www.kotonoha.gr.jp/demo/
+
+
 </pre>
