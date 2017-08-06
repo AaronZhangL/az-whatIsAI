@@ -80,4 +80,9 @@ http://qiita.com/shiraco/items/eca5d0a6fc7fe6fb0f37
 20.国語研日本語ウェブコーパス
 http://pj.ninjal.ac.jp/corpus_center/nwjc/
 
+12. AIMLチュートリアル
+http://www.w3ii.com/ja/aiml/default.html
+
+
+
 </pre>
