@@ -21,4 +21,8 @@ http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&re
 5. books
 计算机书籍控
 http://bestcbooks.com/
+
+6.
+人工智能：用AIML写一个机器人
+http://lcllcl987.iteye.com/blog/473256
 </pre>
