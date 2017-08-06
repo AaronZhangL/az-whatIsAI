@@ -29,4 +29,7 @@ http://lcllcl987.iteye.com/blog/473256
 7.小i机器人
 http://www.xiaoi.com/cloud/ibotcloud.html
 
+8.Eliza, computer therapist
+http://manifestation.com/neurotoys/eliza.php3/
+
 </pre>
