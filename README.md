@@ -83,6 +83,8 @@ http://pj.ninjal.ac.jp/corpus_center/nwjc/
 12. AIMLチュートリアル
 http://www.w3ii.com/ja/aiml/default.html
 
+13. pandorabots.com
+https://www.pandorabots.com/botmaster/ja/home
 
 
 </pre>
