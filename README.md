@@ -56,5 +56,9 @@ A summary of core features:
     Fast and efficient GPU support
     Embeddable, with ports to iOS and Android backends
 
+13. A Neural Conversational Model (google)
+https://arxiv.org/pdf/1506.05869v2.pdf
 
+14. Google's artificial intelligence bot thinks the purpose of life is 'to live forever'
+https://www.businessinsider.com.au/google-tests-new-artificial-intelligence-chatbot-2015-6
 </pre>
