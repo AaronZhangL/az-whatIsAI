@@ -65,4 +65,7 @@ https://www.businessinsider.com.au/google-tests-new-artificial-intelligence-chat
 15. 第773回：自然対話プラットフォーム とは
 http://k-tai.watch.impress.co.jp/docs/column/keyword/1020914.html
 
+16. UnityでBotが作れるアセット「Chatbot」を試してみました
+http://magicbullet.hatenablog.jp/entry/UnityAsset_Chatbot
+
 </pre>
