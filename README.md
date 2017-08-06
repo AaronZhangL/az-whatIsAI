@@ -32,4 +32,8 @@ http://www.xiaoi.com/cloud/ibotcloud.html
 8.Eliza, computer therapist
 http://manifestation.com/neurotoys/eliza.php3/
 
+9. javascript robot
+http://www.cleverscript.com/about/
+
+
 </pre>
