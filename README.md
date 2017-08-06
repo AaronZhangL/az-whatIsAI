@@ -74,4 +74,7 @@ https://dev.smt.docomo.ne.jp/?p=docs.api.page&api_name=scenario_dialogue&p_name=
 18. AIでユーザの悩みを解決
 https://repl-ai.jp/
 
+19. チャットボットの対話設計ができる対話サービスまとめ 〜Docomo対話サービスからAmazon Lexまで〜
+http://qiita.com/shiraco/items/eca5d0a6fc7fe6fb0f37
+
 </pre>
