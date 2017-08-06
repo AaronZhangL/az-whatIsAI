@@ -68,4 +68,10 @@ http://k-tai.watch.impress.co.jp/docs/column/keyword/1020914.html
 16. UnityでBotが作れるアセット「Chatbot」を試してみました
 http://magicbullet.hatenablog.jp/entry/UnityAsset_Chatbot
 
+17. docomoシナリオ対話
+https://dev.smt.docomo.ne.jp/?p=docs.api.page&api_name=scenario_dialogue&p_name=api_usage_scenario
+
+18. AIでユーザの悩みを解決
+https://repl-ai.jp/
+
 </pre>
