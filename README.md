@@ -25,4 +25,8 @@ http://bestcbooks.com/
 6.
 人工智能：用AIML写一个机器人
 http://lcllcl987.iteye.com/blog/473256
+
+7.小i机器人
+http://www.xiaoi.com/cloud/ibotcloud.html
+
 </pre>
