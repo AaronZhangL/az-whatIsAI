@@ -17,4 +17,8 @@ http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&re
 第二定律：机器人应服从人的一切命令，但不得违反第一定律。
 第三定律：机器人应保护自身的安全，但不得违反第一、第二定律。
          ——艾萨克·阿西莫夫《我，机器人》
+         
+5. books
+计算机书籍控
+http://bestcbooks.com/
 </pre>
