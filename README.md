@@ -35,5 +35,11 @@ http://manifestation.com/neurotoys/eliza.php3/
 9. javascript robot
 http://www.cleverscript.com/about/
 
+10. Neural Conversational Model in Torch(Chinese)
+https://github.com/majoressense/chatbot-zh-torch7
+
+11. Neural Conversational Model in Torch
+https://github.com/chenb67/neuralconvo
+
 
 </pre>
