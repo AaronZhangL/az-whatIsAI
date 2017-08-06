@@ -116,7 +116,7 @@ Building your own corpora
 • http://bootcat.sslmit.unibo.it/?section=home
 Key elements to corpus building 
 • Define what you want your corpus for – The more clear you are now, the better the resource will be – E.g. ‘English legal texts’ is too vague; you need to be more specific: ‘English journalistic writing about civil law for nonspecialists’ might be the right sort of level of precision 
-• Locate reliable sources Criteria for selecting text: mode, type, domain, language, location, date. [bnc] Designing and Creating the BNC
+• Locate reliable sources Criteria for selecting text: mode, type, domain, language, location, date. [bnc] Designing and Creating the BNC    http://www.natcorp.ox.ac.uk/corpus/creating.xml
 • The minimum size of a corpus depends on two main factors: --the kind of query that is anticipated from users --the methodology they use to study the data
 
 Coding and cleaning files 
@@ -131,26 +131,27 @@ More tips on cleaning files
 • Problems of anomalous characters – .txt tends to flounder with diacritics 
 • Hyphen issues 
 • From Maher, Waller and Kerans 2008 
-Web as corpra • WebCorp: The Web as Corpus
+
+Web as corpra • WebCorp: The Web as Corpus http://www.webcorp.org.uk/live/
 • The use of open-access corpra Allows you to create quick corpora of specialised terms for specific jobs
 • Major disadvantage is lack of control
 • Major advantage is rapidity
 Research fully to ensure a translation doesn’t exist:
 
 – IATE (including looking on other languages)
-– UNTERM portal (http://untermportal.un.org/portal/welcome)
-– Field specific resources (e.g. Glossary of Tax Terms)
+– UNTERM portal http://untermportal.un.org/UNTERM/portal/welcome
+– Field specific resources (e.g. Glossary of Tax Terms)  http://www.oecd.org/ctp/glossaryoftaxterms.htm
 – Refined Google searches
 – Create ‘sample’ translations and search for these in the TL. 
-• EU resources for translators: – EU – DG Translation
-• Interactive Terminology for Europe: – IATE - The EU's multilingual term base
-• EU Terminology Coordination – TermCoord – Terminology Coordination Unit Home Page
-• French Law on the Internet - The Basics and Free Resources By Emmanuel Barthe http://www.nyulawglobal.org/globalex/french_law_free_resources.htm
-Chinese law resources on the internet Chinese Law Resources on the Internet
+• EU resources for translators: – EU – DG Translation http://www.oecd.org/ctp/glossaryoftaxterms.htm
+• Interactive Terminology for Europe: – IATE - The EU's multilingual term base  http://iate.europa.eu/SearchByQueryLoad.do;jsessionid=ApK36h9qrKdzMBH4XBgaTNBvL7jPrzzNRYnnPq5l4kA45Hx9np5R!-1152822516?method=load
+• EU Terminology Coordination – TermCoord – Terminology Coordination Unit Home Page  http://termcoord.eu/
+• French Law on the Internet - The Basics and Free Resources By Emmanuel Barthe  http://www.nyulawglobal.org/globalex/french_law_free_resources.htm
+Chinese law resources on the internet Chinese Law Resources on the Internet  http://law.wustl.edu/chinalaw/intersou.html
 Features - A Guide to the Spanish Legal System http://216.122.177.166/dpz/legloc/default.html
 Russian Law News (internet links) http://www.russianlaws.com/resources/
-Bilingual law information system: e.g. Hong Kong Department of Justice
-Research institutions and universities Library Home Pagehttp://www.nyulawglobal.org/globalex/Russia_Legal_Research.htm
+Bilingual law information system: e.g. Hong Kong Department of Justice  https://www.elegislation.gov.hk/
+Research institutions and universities Library Home Page http://www.nyulawglobal.org/globalex/Russia_Legal_Research.html
 
 24. 中文可用免费语料库（凡没有标注不可用的链接均可用)
 http://blog.sina.com.cn/s/blog_66dfbcca0100r3ex.html
