@@ -2,6 +2,9 @@ See: https://github.com/ty4z2008/Qix/edit/master/dl.md
 
 ## 机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 1)
 
+#####
+*[自己动手做聊天机器人](http://www.shareditor.com/bloglistbytag/?tagname=%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%81%9A%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA)
+
 ##### 注:机器学习资料[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条,[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新
 
 ##### 希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
