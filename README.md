@@ -216,5 +216,9 @@ http://ling.cuc.edu.cn/mmcpub（目前系统正在升级改造中）
 25. 現代日本語書き言葉均衡コーパス（BCCWJ）
 http://www.kotonoha.gr.jp/demo/
 
+每天AI资讯这么多！该看哪些？”推荐一份优质资料清单
+
+https://github.com/BAILOOL/DoYouEvenLearn
+http://mp.weixin.qq.com/s/beIv40FGNRm5qGmxQldv8Q
 
 </pre>
