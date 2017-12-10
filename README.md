@@ -224,4 +224,7 @@ http://mp.weixin.qq.com/s/beIv40FGNRm5qGmxQldv8Q
 26. DL4J与Torch、Theano、TensorFlow、Caffe、Paddle、MxNet、Keras 和 CNTK的比较
 https://deeplearning4j.org/cn/compare-dl4j-torch7-pylearn.html
 
+27. TensorFlow ドキュメント/応用 – ClassCat® AI Research – AI ビジネス導入コンサルティング
+http://tensorflow.classcat.com/category/nlp/
+
 </pre>
