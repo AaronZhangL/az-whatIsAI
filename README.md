@@ -230,4 +230,45 @@ http://tensorflow.classcat.com/category/nlp/
 28. tensorflow seq2seq chatbot for Japanese
 https://github.com/tattn/tensorflow-chatbot-jp
 
+29. いますぐ使える単語埋め込みベクトルのリスト
+https://qiita.com/Hironsan/items/8f7d35f0a36e0f99752c
+
+まずは定番な3つ: Word2Vec, GloVe, fastText
+Word2Vec
+一言コメント 	言わずと知れたWord2Vecの事前学習済みベクトル。何を使えばいいのかわからないならこれを使っておけば間違いはない。
+発表年数 	2013年
+URL 	https://code.google.com/archive/p/word2vec/
+
+日本語を含めた多言語の学習済みベクトルは以下のリンク先からから入手することができる:
+
+    https://github.com/Kyubyong/wordvectors
+
+GloVe
+一言コメント 	Stanfordが誇るGloVe。Word2Vecより良い性能だと謳っている。グローバルな行列分解のモデルとlocal context windowのモデルを組み合わせてよい単語ベクトルを学習した。
+発表年数 	2014年
+URL 	http://nlp.stanford.edu/projects/glove/
+fastText
+一言コメント 	Word2Vecを作った天才Mikolovが作ったfastText。とにかく学習が早い。形態素を考慮するために各単語を文字ngramで表現し、それらのベクトル表現を学習している。
+発表年数 	2016年
+URL1 	Download Word Vectors
+URL2 	Download Word Vectors(NEologd)
+
+※ 日本語のみ
+
+使い方含めて以下に書きました。
+fastTextの学習済みモデルを公開しました
+最新の成果が適用された3つの事前学習ベクトル
+Dependency-Based Word Embeddings
+一言コメント 	Levyらによる単語埋め込みベクトル。依存関係を用いて学習させたことで、syntacticなタスクに強くなった。syntacticなタスクに使いたい場合はこれがいいかも。
+発表年数 	2014年
+URL 	https://levyomer.wordpress.com/2014/04/25/dependency-based-word-embeddings/
+Meta-Embeddings
+一言コメント 	ACL2016で発表されたMeta-Embeddings。異なる性質を持つ単語埋め込みベクトルの集合を組み合わせて、より良いベクトル(meta embedding)を得ることに成功した。ベクトル集合を組み合わせることでボキャブラリのカバレッジをあげられることがメリット。
+発表年数 	2016年
+URL 	http://cistern.cis.lmu.de/meta-emb/
+LexVec
+一言コメント 	こちらもACL2016で発表されたLexVec。単語類似度タスクではいくつかの評価セットにおいてWord2Vecを上回る結果を残している。
+発表年数 	2016年
+URL 	https://github.com/alexandres/lexvec
+
 </pre>
