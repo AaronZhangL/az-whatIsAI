@@ -227,4 +227,7 @@ https://deeplearning4j.org/cn/compare-dl4j-torch7-pylearn.html
 27. TensorFlow ドキュメント/応用 – ClassCat® AI Research – AI ビジネス導入コンサルティング
 http://tensorflow.classcat.com/category/nlp/
 
+28. tensorflow seq2seq chatbot for Japanese
+https://github.com/tattn/tensorflow-chatbot-jp
+
 </pre>
