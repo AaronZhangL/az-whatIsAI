@@ -1,0 +1,22 @@
+
+□ 介绍:基于分布式表示的自然语言理解(100+页),论文.
+《Natural Language Understanding with Distributed Representation》
+https://arxiv.org/pdf/1511.07916.pdf
+
+□ 《Deep Learning - Taking machine learning to the next level》
+https://classroom.udacity.com/courses/ud730
+
+□ 《Implementing Dynamic memory networks》
+介绍:动态记忆网络实现.
+http://yerevann.github.io//2016/02/05/implementing-dynamic-memory-networks/
+
+□ Deeplearning4j
+https://deeplearning4j.org/overview
+
+□ 《Evaluating language identification performance》
+介绍:如何在社会媒体上做语言检测？没有数据怎么办？推特官方公布了一个十分难得的数据集：12万标注过的Tweets，有70种语言
+https://blog.twitter.com/engineering/en_us/a/2015/evaluating-language-identification-performance.html
+
+□ 《WikiTableQuestions: a Complex Real-World Question Understanding Dataset》
+介绍:WikiTableQuestions——复杂真实问答数据集
+https://nlp.stanford.edu/blog/wikitablequestions-a-complex-real-world-question-understanding-dataset/
