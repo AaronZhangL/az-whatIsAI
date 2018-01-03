@@ -307,4 +307,5 @@ Open Assistant仍在大力开发中，旨在提供Siri、Cortana和Google Now之
 https://github.com/ty4z2008/Qix/blob/master/dl.md
 
 ---------------------------------------------------------------
-	
+Loading Wikipedia's Search Index For Testing
+http://www.elastic.co/blog/loading-wikipedia
