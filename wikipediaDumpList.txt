@@ -11,4 +11,5 @@ https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2
 https://dumps.wikimedia.org/other/
 
 # CirrusSearch - Search indexes dumped in elasticsearch bulk insert format
+https://dumps.wikimedia.org/other/cirrussearch/current/
 
