@@ -314,7 +314,7 @@ http://www.elastic.co/blog/loading-wikipedia
 http://licstar.net/archives/262
 
 #维基百科简体中文dump
-http://download.wikipedia.com/zhwiki/latest/
+：http://download.wikipedia.com/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2
 
 #使用 Wikipedia Extractor 抽取正文文本
 Wikipedia Extractor 是意大利人用 Python 写的一个维基百科抽取器，使用非常方便。下载之后直接使用这条命令即可完成抽取，运行了大约半小时的时间。
