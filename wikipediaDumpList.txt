@@ -1,0 +1,10 @@
+# Chinese
+http://download.wikipedia.com/zhwiki/latest/zhwiki-latest-pages-articles.xml.bz2
+
+# Japanese
+https://dumps.wikimedia.org/jawiki/latest/jawiki-latest-pages-articles.xml.bz2
+
+# English
+https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.xml.bz2
+
+
