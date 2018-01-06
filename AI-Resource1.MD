@@ -309,3 +309,9 @@ https://github.com/ty4z2008/Qix/blob/master/dl.md
 ---------------------------------------------------------------
 Loading Wikipedia's Search Index For Testing
 http://www.elastic.co/blog/loading-wikipedia
+
+#维基百科简体中文语料的获取
+http://licstar.net/archives/262
+
+#维基百科简体中文dump
+http://download.wikipedia.com/zhwiki/latest/
