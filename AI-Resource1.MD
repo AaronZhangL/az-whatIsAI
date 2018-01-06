@@ -315,3 +315,16 @@ http://licstar.net/archives/262
 
 #维基百科简体中文dump
 http://download.wikipedia.com/zhwiki/latest/
+
+#使用 Wikipedia Extractor 抽取正文文本
+Wikipedia Extractor 是意大利人用 Python 写的一个维基百科抽取器，使用非常方便。下载之后直接使用这条命令即可完成抽取，运行了大约半小时的时间。
+　　bzcat zhwiki-latest-pages-articles.xml.bz2 | python WikiExtractor.py -b 1000M -o extracted >output.txt
+　　参数 -b 1000M 表示以 1000M 为单位切分文件，默认是 500K。由于最后生成的正文文本不到 600M，把参数设置的大一些可以保证最后的抽取结果全部存在一个文件里。
+  
+#繁简转换
+解决这个问题最佳的办法应该是直接使用维基百科自身的繁简转换方法（参照 http://zh.wikipedia.org/wiki/Wikipedia:繁简处理）。不过维基百科网站虽然是开源的，但要把里面的繁简转换功能拆解出来，有一定的难度。
+　　为了方便起见，我直接使用了开源项目 opencc。参照安装说明的方法，安装完成之后，使用下面的命令进行繁简转换，整个过程大约需要1分钟。
+　　opencc -i wiki_00 -o wiki_chs -c zht2zhs.ini
+　　命令中的 wiki_00 这个文件是此前使用 Wikipedia Extractor 得到的。
+  
+  
