@@ -13,3 +13,12 @@ https://dumps.wikimedia.org/other/
 # CirrusSearch - Search indexes dumped in elasticsearch bulk insert format
 https://dumps.wikimedia.org/other/cirrussearch/current/
 
+https://dumps.wikimedia.org/other/cirrussearch/current/enwiki-20180101-cirrussearch-content.json.gz
+https://dumps.wikimedia.org/other/cirrussearch/current/enwiki-20180101-cirrussearch-general.json.gz
+
+https://dumps.wikimedia.org/other/cirrussearch/current/zhwiki-20180101-cirrussearch-content.json.gz
+https://dumps.wikimedia.org/other/cirrussearch/current/zhwiki-20180101-cirrussearch-general.json.gz
+
+https://dumps.wikimedia.org/other/cirrussearch/current/jawiki-20180101-cirrussearch-content.json.gz
+https://dumps.wikimedia.org/other/cirrussearch/current/jawiki-20180101-cirrussearch-general.json.gz
+
